@@ -12,7 +12,7 @@ $mahasiswa = [
         "nim" => '21510009',
         "nama" => "Dhiva Ayu",
         "jurusan" => "Sistem Informasi",
-        "email" => "gessa@stimata.ac.id",
+        "email" => "dhiva@stimata.ac.id",
         "gambar" => "dhiva.jpg"
     ],
 
